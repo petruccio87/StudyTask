@@ -17,7 +17,7 @@
                BlueprintIdentifier = "10B6A4251F0CCF90007ED9DA"
                BuildableName = "les5.app"
                BlueprintName = "les5"
-               ReferencedContainer = "container:les5.xcodeproj">
+               ReferencedContainer = "container:BeerOrCoffee.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "10B6A4391F0CCF91007ED9DA"
                BuildableName = "les5Tests.xctest"
                BlueprintName = "les5Tests"
-               ReferencedContainer = "container:les5.xcodeproj">
+               ReferencedContainer = "container:BeerOrCoffee.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "10B6A4441F0CCF91007ED9DA"
                BuildableName = "les5UITests.xctest"
                BlueprintName = "les5UITests"
-               ReferencedContainer = "container:les5.xcodeproj">
+               ReferencedContainer = "container:BeerOrCoffee.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "10B6A4251F0CCF90007ED9DA"
             BuildableName = "les5.app"
             BlueprintName = "les5"
-            ReferencedContainer = "container:les5.xcodeproj">
+            ReferencedContainer = "container:BeerOrCoffee.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "10B6A4251F0CCF90007ED9DA"
             BuildableName = "les5.app"
             BlueprintName = "les5"
-            ReferencedContainer = "container:les5.xcodeproj">
+            ReferencedContainer = "container:BeerOrCoffee.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +97,7 @@
             BlueprintIdentifier = "10B6A4251F0CCF90007ED9DA"
             BuildableName = "les5.app"
             BlueprintName = "les5"
-            ReferencedContainer = "container:les5.xcodeproj">
+            ReferencedContainer = "container:BeerOrCoffee.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
